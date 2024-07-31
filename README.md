@@ -67,7 +67,13 @@ Additionally, <strong>Redis is utilized for efficient data storage and retrieval
 <br>
 
 ###### Output :star_struck:
-##### :pencil2: `As you can see , this first search was for resturents then searched for hostels. ` 
+##### :pencil2: `Search for resturents` 
+
+<img width="848" alt="resturents" src="https://github.com/user-attachments/assets/350603f4-17ad-4e57-8663-9775652112ef">
+
+##### :pencil2: `Search for hotels` 
+
+<img width="874" alt="hotels" src="https://github.com/user-attachments/assets/89b55829-de83-4b7f-84dc-c14451330eb7">
 
 
 ---
