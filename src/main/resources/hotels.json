@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "The Grand Hotel",
+        "city": "Sample City",
+        "zip": "94103",
+        "latitude": 37.7749,
+        "longitude": -122.4194
+    },
+    {
+        "id": 2,
+        "name": "Oceanview Inn",
+        "city": "Coastal Town",
+        "zip": "94016",
+        "latitude": 37.7833,
+        "longitude": -122.4167
+    },
+    {
+        "id": 3,
+        "name": "Mountain Lodge",
+        "city": "Mountain Village",
+        "zip": "94025",
+        "latitude": 36.7783,
+        "longitude": -121.4179
+    },
+    {
+        "id": 4,
+        "name": "City Center Hotel",
+        "city": "Urban Area",
+        "zip": "94105",
+        "latitude": 34.0522,
+        "longitude": -118.2437
+    },
+    {
+        "id": 5,
+        "name": "Airport Hotel",
+        "city": "Airport City",
+        "zip": "94030",
+        "latitude": 32.7157,
+        "longitude": -117.1611
+    },
+    {
+        "id": 6,
+        "name": "Lakeside Resort",
+        "city": "Lakeside",
+        "zip": "94501",
+        "latitude": 36.7378,
+        "longitude": -119.7871
+    },
+    {
+        "id": 7,
+        "name": "Forest Retreat",
+        "city": "Woodland",
+        "zip": "94903",
+        "latitude": 38.4405,
+        "longitude": -122.7144
+    },
+    {
+        "id": 8,
+        "name": "Desert Oasis",
+        "city": "Desert Town",
+        "zip": "93501",
+        "latitude": 34.8494,
+        "longitude": -120.4357
+    },
+    {
+        "id": 9,
+        "name": "Downtown Suites",
+        "city": "Metro City",
+        "zip": "94108",
+        "latitude": 35.3733,
+        "longitude": -119.0187
+    },
+    {
+        "id": 10,
+        "name": "Seaside Hotel",
+        "city": "Seaside",
+        "zip": "93955",
+        "latitude": 34.0522,
+        "longitude": -118.2437
+    },
+    {
+        "id": 11,
+        "name": "Hilltop Hotel",
+        "city": "Hillytown",
+        "zip": "94109",
+        "latitude": 33.6846,
+        "longitude": -117.8265
+    },
+    {
+        "id": 12,
+        "name": "Riverside Inn",
+        "city": "Riverside",
+        "zip": "92501",
+        "latitude": 37.3688,
+        "longitude": -122.0363
+    },
+    {
+        "id": 13,
+        "name": "Sunset Hotel",
+        "city": "Sunset City",
+        "zip": "94114",
+        "latitude": 33.8358,
+        "longitude": -117.9143
+    },
+    {
+        "id": 14,
+        "name": "Garden Hotel",
+        "city": "Garden City",
+        "zip": "94121",
+        "latitude": 34.1478,
+        "longitude": -118.1445
+    },
+    {
+        "id": 15,
+        "name": "Harbor Hotel",
+        "city": "Harbor City",
+        "zip": "94002",
+        "latitude": 36.6002,
+        "longitude": -121.8947
+    }
+]
